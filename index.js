@@ -33,7 +33,7 @@ var subSys = {
     "RPC_SYS_RCN_CLIENT": 12,
     "RPC_SYS_BOOT": 13,
     "RPC_SYS_ZIPTEST": 14,
-    "RPC_SYS_DEBUG": 15,
+    "RPC_SYS_APP_CNF": 15,
     "RPC_SYS_PERIPHERALS": 16,
     "RPC_SYS_NFC": 17,
     "RPC_SYS_PB_NWK_MGR": 18,
